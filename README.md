@@ -4,7 +4,7 @@ Welcome to GitHub—where millions of developers work together on software. Read
 
 ## Hello-world!
 
-I am here to learn about coding annd other things so that I can start to develop programs that will work with LoRa and LoRaWAN.
+I am here to learn about coding and other things so that I can start to develop programs that will work with LoRa and LoRaWAN.
 
 ## Repositories
 
